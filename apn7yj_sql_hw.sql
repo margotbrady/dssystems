@@ -5,7 +5,6 @@ WORLD DATABASE QUESTIONS
 SELECT Name from country WHERE continent = 'South America';
 
 -- #2: Find the population of 'Germany'
-use world;
 
 SELECT population FROM country WHERE Name = 'Germany'; 
 
